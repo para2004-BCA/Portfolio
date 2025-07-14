@@ -3,7 +3,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import AboutMe from './components/AboutMe';
-import Skils from './components/Skills';
+import Skils from './components/skills';
 import Project from './components/Project';
 import Educations from './components/Education';
 import Certificates from './components/Certificats';
