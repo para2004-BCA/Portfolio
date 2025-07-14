@@ -9,7 +9,7 @@ function Skils() {
     { name: 'React', icon: './public/images/react.svg' },
     { name: 'MongoDB', icon: './public/images/mongoDB.svg' },
     { name: 'Express', icon: './public/images/expressjs.svg' },
-    { name: 'Node js', icon: './public/images/nodejs.svg' },
+    { name: 'Node js', icon: './images/nodejs.svg' },
     { name: 'Material UI', icon: './public/images/materialui.svg' },
     { name: 'Bootstrap', icon: './public/images/bootstrap.svg' },
     { name: 'Git', icon: './public/images/git.svg' },
