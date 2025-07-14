@@ -3,16 +3,16 @@ import './Skils.css';
 
 function Skils() {
   const skills = [
-    { name: 'HTML', icon: './public/images/html.svg' },
-    { name: 'CSS', icon: './public/images/css.svg' },
-    { name: 'JavaScript', icon: './public/images/javascript.svg' },
-    { name: 'React', icon: './public/images/react.svg' },
-    { name: 'MongoDB', icon: './public/images/mongoDB.svg' },
-    { name: 'Express', icon: './public/images/expressjs.svg' },
+    { name: 'HTML', icon: './images/html.svg' },
+    { name: 'CSS', icon: './images/css.svg' },
+    { name: 'JavaScript', icon: './images/javascript.svg' },
+    { name: 'React', icon: './images/react.svg' },
+    { name: 'MongoDB', icon: './images/mongoDB.svg' },
+    { name: 'Express', icon: './images/expressjs.svg' },
     { name: 'Node js', icon: './images/nodejs.svg' },
-    { name: 'Material UI', icon: './public/images/materialui.svg' },
-    { name: 'Bootstrap', icon: './public/images/bootstrap.svg' },
-    { name: 'Git', icon: './public/images/git.svg' },
+    { name: 'Material UI', icon: './images/materialui.svg' },
+    { name: 'Bootstrap', icon: './images/bootstrap.svg' },
+    { name: 'Git', icon: './images/git.svg' },
   ];
 
   return (
