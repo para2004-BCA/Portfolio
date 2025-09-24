@@ -1,5 +1,5 @@
 import React from "react";
-import { FaPhoneAlt, FaEnvelope, FaLinkedin, FaFileAlt, FaMapMarkerAlt } from "react-icons/fa";
+import { FaPhoneAlt, FaEnvelope, FaLinkedin, FaFileAlt, FaMapMarkerAlt,FaGithub } from "react-icons/fa";
 import "./AboutMe.css";
 
 function AboutMe() {
@@ -40,7 +40,7 @@ function AboutMe() {
               </a>
             </li>
              <li>
-              <FaGitHub className="icon" />
+              <FaGithub className="icon" />
               <a href="https://github.com/para2004-BCA" target="_blank" rel="noreferrer">
                 GitHub/para2004-BCA
               </a>
