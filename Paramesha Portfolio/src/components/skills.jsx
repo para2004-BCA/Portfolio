@@ -15,7 +15,7 @@ function Skils() {
     { name: 'Git', icon: './images/git.svg' },
     { name: 'Python', icon: './images/python.png'},
     { name: 'Java', icon: './images/icons8-programming-language-48.png'},
-    { name: 'MySQL', icon: './images/mysql(1).png'},
+    { name: 'MySQL', icon: './images/mysql (1).png'},
   ];
 
   return (
