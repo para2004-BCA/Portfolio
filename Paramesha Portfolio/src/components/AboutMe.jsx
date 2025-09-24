@@ -46,7 +46,7 @@ function AboutMe() {
             </li>
             <li>
               <FaFileAlt className="icon" />
-              <a href="https://drive.google.com/file/d/1Vczpv1oeUhL61i8PMKZKYBddG2Em7IG5/view?usp=drive_link" target="_blank" rel="noreferrer">
+              <a href="https://drive.google.com/drive/u/1/folders/14MWYOPm2_TWFhVrh149AuvpWljjrzRYc" target="_blank" rel="noreferrer">
                 View Resume
               </a>
             </li>
