@@ -40,7 +40,7 @@ function AboutMe() {
               </a>
             </li>
              <li>
-              <FaLinkedin className="icon" />
+              <FaGitHub className="icon" />
               <a href="https://github.com/para2004-BCA" target="_blank" rel="noreferrer">
                 GitHub/para2004-BCA
               </a>
