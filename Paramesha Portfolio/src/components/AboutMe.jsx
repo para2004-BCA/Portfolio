@@ -10,7 +10,7 @@ function AboutMe() {
       <div className="about-container">
         <div className="about-left">
           <p>
-            Hello! I'm Paramesha Pattanashetty, a passionate full stack developer & Software Engineering skilled in HTML, CSS, JavaScript, React.js, and Node.js, MongoDB, Express.js.
+            Hello! I'm Paramesha Pattanashetty, a passionate full stack developer & Software Engineering skilled in HTML, CSS, JavaScript, React.js, Node.js, MongoDB, Express.js.
           </p>
           <h5>I Learned in Java + DSA</h5>
           <p>
