@@ -6,9 +6,9 @@ function Educations() {
   const educationData = [
     {
       degree: "Bachelor of Computer Applications (BCA)",
-      institution: "Karnataka University",
+      institution: "Vijayanagara Sri Krishnadevaraya University, Ballari",
       duration: "2022 - 2025",
-      grade: "CGPA(up to 5th sem): 8.2",
+      grade: "CGPA: 8.35",
     },
     {
       degree:"PUC-Commers",
