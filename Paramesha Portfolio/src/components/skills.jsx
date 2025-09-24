@@ -13,7 +13,9 @@ function Skils() {
     { name: 'Material UI', icon: './images/materialui.svg' },
     { name: 'Bootstrap', icon: './images/bootstrap.svg' },
     { name: 'Git', icon: './images/git.svg' },
-    { name: 'Java', icon: './images/python.png'},
+    { name: 'Python', icon: './images/python.png'},
+    { name: 'Java', icon: './images/icons8-programming-language-48.png'},
+    { name: 'MySQL', icon: './images/mysql(1).png'},
   ];
 
   return (
