@@ -13,6 +13,7 @@ function Skils() {
     { name: 'Material UI', icon: './images/materialui.svg' },
     { name: 'Bootstrap', icon: './images/bootstrap.svg' },
     { name: 'Git', icon: './images/git.svg' },
+    { name: 'Java', icon: './images/python.png'},
   ];
 
   return (
