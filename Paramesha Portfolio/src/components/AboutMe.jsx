@@ -38,6 +38,12 @@ function AboutMe() {
                 linkedin.com/in/paramesha-pattanashetty
               </a>
             </li>
+             <li>
+              <FaLinkedin className="icon" />
+              <a href="https://github.com/para2004-BCA" target="_blank" rel="noreferrer">
+                GitHub/para2004-BCA
+              </a>
+            </li>
             <li>
               <FaFileAlt className="icon" />
               <a href="https://drive.google.com/file/d/1Vczpv1oeUhL61i8PMKZKYBddG2Em7IG5/view?usp=drive_link" target="_blank" rel="noreferrer">
